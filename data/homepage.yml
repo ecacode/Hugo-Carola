@@ -1,7 +1,7 @@
 # homepage
 homepage:
   head:
-    title: "Home | Raditian"
+    title: "Home | Carola"
 # showcase
 showcase:
   enable: true
@@ -58,9 +58,11 @@ showcase:
 about:
   enable: true
   title: "About <br/> Our Company"
-  content: "We are a start up company focuses on analyzing all
-    kind of data. ASTRAMAYA advance in analyzing
-    conversations and news both social and mass media"
+  content: "Carola is a start-up company engaged in strategic
+    communication, especially in crisis management. We
+    provide 24 hour alerts to give you immediate
+    assistance.
+    "
   button:
     btnText: "Read more"
   image:
@@ -76,7 +78,7 @@ what_we_do:
 # why
 why:
   enable: true
-  title: "Why Astramaya?"
+  title: "Why Carola?"
   image:
     alt: "why image"
     x: "img/why-astramaya/why-image.png"
