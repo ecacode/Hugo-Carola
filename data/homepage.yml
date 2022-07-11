@@ -91,6 +91,66 @@ our_service:
   image:
     alt: "our service image"
     x: "img/our-service/our-service-image.png"
+  items:
+    - img: "img/our-service/strategic.png"
+      title: "Strategic Communication in crisis"
+      description: "provides 24/7 support on
+        demand and also provides
+        crisis preparedness training
+        for various cross-sectoral
+        organizations including
+        companies, governments,
+        large-scale events,
+        transportation, aviation, and
+        manufacturing. "
+    - img: "img/our-service/digital-public.png"
+      title: "Digital Public Relations Strategies"
+      description: "Carola can draw up a plan
+        related to the digital campaign
+        strategy needed along with its
+        content. While digital space is
+        full of information, it is
+        important to stand out from
+        the rest by animating
+        interesting ideas. We are a PR
+        agency that can provide
+        solutions that are solutif for
+        your company."
+    - img: "img/our-service/special-event.png"
+      title: "Special Event"
+      description: "Launching new products /
+        brands? Campaign? Invite
+        media and key influencers?
+        And get public awareness?
+        Carola provides a team to
+        handle your special events"
+    - img: "img/our-service/content.png"
+      title: "Content"
+      description:
+        "Carola provides creative designers and copy writers to ensure your brand stands out in the crowded digital media space. Whether it’s videos, infographics, cinemagraphs, captions, articles, and press
+        releases"
+    - img: "img/our-service/media-relation.png"
+      title: "Media Relations & Publicity"
+      description: "If you want to achieve and
+        maintain a media presence,
+        manage a crisis, or plan a
+        better strategic approach in
+        the field of communication,
+        then Carola is your solution.
+        Our team has strong
+        experience in managing
+        publicity campaigns"
+    - img: "img/our-service/csr.png"
+      title: "Corporate social responsibility (CSR)"
+      description: "Corporate Social Responsibility
+        (CSR) has evolved from a trend
+        up to now an important part
+        of a community engagement
+        strategy that can form an
+        integral part of the company’s
+        strategic communication to
+        the community, staff and
+        other stakeholders."
 
 # product
 product:

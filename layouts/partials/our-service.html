@@ -6,10 +6,14 @@
         <h2 class="green-font">{{ .Site.Data.homepage.our_service.title }}</h2>
         <p class="center-description">{{ .Site.Data.homepage.our_service.desc | safeHTML}}</p>
       </div>
-      <div class="row justify-content-center">
-        <div class="col-md-12">
-          <img src="{{ .Site.Data.homepage.our_service.image.x }}" alt="{{ .Site.Data.homepage.our_service.image.alt }}" />
+      <div class="d-flex row">
+        {{ range .Site.Data.homepage.our_service.items }}
+        <div class="col-md-4 text-center">
+          <img class="img-responsive m-1" src="{{ .img }}" alt="logo" />
+          <h5>{{ .title }}</h5>
+          <p class="mt-3 mx-5 text-left">{{.description}}</p>
         </div>
+        {{end}}
       </div>
     </div>
   </div>
