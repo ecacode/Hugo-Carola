@@ -81,7 +81,7 @@ why:
   title: "Why Carola?"
   image:
     alt: "why image"
-    x: "img/why-astramaya/why-image.png"
+    x: "img/why/why-image.png"
 
 # our service
 our_service:
