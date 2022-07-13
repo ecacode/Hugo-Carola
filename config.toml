@@ -91,18 +91,15 @@ theme = "raditian-free-hugo-theme"
 [params]
 
   sections = [
-    "showcase", 
-    "about", 
-    "what-we-do", 
-    "why", 
-    "our-service", 
-    "product", 
-    "client", 
-    # "our-team",
-    "contact", 
+    "showcase",
+    "about",
+    "what-we-do",
+    "why",
+    "our-service",
+    "product",
+    "client",
+    "contact",
     "newsletter"
-    # "testimonial",
-    # "client-and-work"
   ]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
