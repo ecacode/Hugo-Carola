@@ -58,11 +58,7 @@ showcase:
 about:
   enable: true
   title: "About <br/> Our Company"
-  content: "Carola is a start-up company engaged in strategic
-    communication, especially in crisis management. We
-    provide 24 hour alerts to give you immediate
-    assistance.
-    "
+  content: "CAROLA adalah perusahaan start-up yang bergerak di bidang komunikasi strategis, terutama dalam manajemen krisis reputasi."
   button:
     btnText: "Read more"
   image:
@@ -79,6 +75,9 @@ what_we_do:
 why:
   enable: true
   title: "Why Carola?"
+  description: ' - Berpengalaman dalam manajemen komunikasi krisis reputasi</br>
+    - Berpengalaman dalam kampanye isu sensitif</br>
+    - 24 jam membantu Anda dalam memantau dinamika isu'
   image:
     alt: "why image"
     x: "img/why/why-image.png"
@@ -93,64 +92,24 @@ our_service:
     x: "img/our-service/our-service-image.png"
   items:
     - img: "img/our-service/strategic.png"
-      title: "Strategic Communication in crisis"
-      description: "provides 24/7 support on
-        demand and also provides
-        crisis preparedness training
-        for various cross-sectoral
-        organizations including
-        companies, governments,
-        large-scale events,
-        transportation, aviation, and
-        manufacturing. "
+      title: "Komunikasi Strategis dalam Krisis"
+      description: "Carola dapat menyediakan dukungan 24/7 sesuai permintaan dan juga memberikan pelatihan kesiapsiagaan krisis untuk berbagai organisasi lintas sektor termasuk perusahaan, pemerintah, acara berskala besar, transportasi, penerbangan, dan manufaktur."
     - img: "img/our-service/digital-public.png"
-      title: "Digital Public Relations Strategies"
-      description: "Carola can draw up a plan
-        related to the digital campaign
-        strategy needed along with its
-        content. While digital space is
-        full of information, it is
-        important to stand out from
-        the rest by animating
-        interesting ideas. We are a PR
-        agency that can provide
-        solutions that are solutif for
-        your company."
+      title: "Strategi Hubungan Masyarakat Digital"
+      description: "Carola dapat menyusun rencana terkait strategi kampanye digital yang dibutuhkan berikut dengan kontennya."
     - img: "img/our-service/special-event.png"
       title: "Special Event"
-      description: "Launching new products /
-        brands? Campaign? Invite
-        media and key influencers?
-        And get public awareness?
-        Carola provides a team to
-        handle your special events"
+      description: "Meluncurkan produk / merek baru? Kampanye? Undang media dan key influencer? Dan dapatkan awareness publik? Carola menyediakan tim untuk menangani berbagai acara khusus Anda."
     - img: "img/our-service/content.png"
-      title: "Content"
+      title: "Konten"
       description:
-        "Carola provides creative designers and copy writers to ensure your brand stands out in the crowded digital media space. Whether it’s videos, infographics, cinemagraphs, captions, articles, and press
-        releases"
+        "Carola menyediakan creative designer dan copy writer untuk memastikan merek Anda menonjol di ruang media digital yang ramai. Baik itu video, infografis, sinemagraf, captions, artikel, maupun siaran pers"
     - img: "img/our-service/media-relation.png"
-      title: "Media Relations & Publicity"
-      description: "If you want to achieve and
-        maintain a media presence,
-        manage a crisis, or plan a
-        better strategic approach in
-        the field of communication,
-        then Carola is your solution.
-        Our team has strong
-        experience in managing
-        publicity campaigns"
+      title: "Hubungan Media & Publisitas"
+      description: "Carola memiliki pengalaman yang kuat dalam mengelola kampanye publisitas untuk organisasi, pemerintah, pariwisata, dan ritel termasuk negosiasi dan pengelolaan sponsor media yang berkelanjutan."
     - img: "img/our-service/csr.png"
-      title: "Corporate social responsibility (CSR)"
-      description: "Corporate Social Responsibility
-        (CSR) has evolved from a trend
-        up to now an important part
-        of a community engagement
-        strategy that can form an
-        integral part of the company’s
-        strategic communication to
-        the community, staff and
-        other stakeholders."
+      title: "Tanggung jawab sosial perusahaan (CSR)"
+      description: "Carola dapat mengembangkan strategi dan kegiatan CSR untuk klien mulai dari mengembangkan inisiatif komunitas lokal hingga inisiatif sosial, pendidikan dan lingkungan, dan kegiatan amal."
 
 # product
 product:
@@ -258,18 +217,22 @@ contact:
     number: "021 8064 1965"
   email:
     title: "Email"
-    email: '<a href="mailto:info@astrabuana.id">info@astrabuana.id</a>'
+    email: '<a href="mailto:info@astrabuana.id">info@carola.id</a>'
   website:
     title: "Website"
     website: '<a href="www.astrabuana.id">www.astrabuana.id</a>'
   address:
     title: "Address"
-    address: "Klaster Griya Purwa No 146 Kompleks<br/>
-      Kavling DKI, Jl. Purwa Raya l Gg Hj Rajim<br/>
-      No.RT.6, RT.6/RW.3 Cipendak, Kec. Jagakarsa,<br/>
-      Kota Jakarta Selatan,<br/>
-      Daerah Khusus Ibukota Jakarta<br/>
-      12630"
+    # address: "Klaster Griya Purwa No 146 Kompleks<br/>
+    #   Kavling DKI, Jl. Purwa Raya l Gg Hj Rajim<br/>
+    #   No.RT.6, RT.6/RW.3 Cipendak, Kec. Jagakarsa,<br/>
+    #   Kota Jakarta Selatan,<br/>
+    #   Daerah Khusus Ibukota Jakarta<br/>
+    #   12630"
+    address: '18 Office Park Building </br>
+        Lt. 22 Suite E,F, G </br>
+        Jl. TB Simatupang Kav. 18 Jakarta 12520</br>
+        Telp : 021 80641965'
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
