@@ -5,9 +5,9 @@ homepage:
 # showcase
 showcase:
   enable: true
-  title: "Dapatkan solusi dalam tentukan keputusan bisnis anda"
+  title: "Dapatkan solusi dalam menentukan keputusan bisnis Anda."
   subtitle: "___________"
-  description: "Kami membantu perusahaan untuk dapatkan wawasan yang lebih luas melalui big data media sosial dan media online. Butuh penasihat untuk tim komunikasi anda?"
+  description: "Kami membantu perusahaan untuk mendapatkan wawasan yang lebih luas melalui big data media sosial dan media online. Butuh penasihat untuk tim komunikasi Anda ?"
   image:
     alt: "Showcase keyboard and mouse image"
     # x: "img/showcase/landing-image.png"
@@ -56,8 +56,7 @@ showcase:
 about:
   enable: true
   title: "Tentang <br/>Peruasahaan Kami"
-  content: "CAROLA adalah perusahaan yang memulai bergerak di bidang komunikasi strategis, terutama dalam mengelola krisis reputasi.
-"
+  content: "CAROLA adalah perusahaan start-up yang bergerak di bidang komunikasi strategis, terutama dalam mengelola krisis reputasi."
   button:
     btnText: "Baca Selengkapnya"
   image:
@@ -67,8 +66,8 @@ about:
 # what we do
 what_we_do:
   enable: true
-  title: "Apa Yang Kami Kerjakan?"
-  description: "Memahami naik turunnya REPUTASI anda <br/> sangatlah penting untuk :"
+  title: "Apa yang Kami Kerjakan ?"
+  description: "Memahami naik turunnya REPUTASI Anda <br/> sangatlah penting untuk :"
   image:
     alt: 'image'
     src: 'img/what-we-do/card-image.png'
@@ -99,18 +98,18 @@ our_service:
       title: "Strategi Hubungan Masyarakat Digital"
       description: "Carola dapat menyusun rencana terkait strategi kampanye digital yang dibutuhkan berikut dengan kontennya."
     - img: "img/our-service/special-event.png"
-      title: "Special Event"
-      description: "Meluncurkan produk / merek baru? Kampanye? Undang media dan key influencer? Dan dapatkan awareness publik? Carola menyediakan tim untuk menangani berbagai acara khusus Anda."
+      title: "Acara Spesial"
+      description: "Meluncurkan produk/brand baru?  Kampanye?  Undang media dan influencer utama?  Dan mendapatkan kesadaran publik?  Carola menyediakan tim untuk menangani berbagai acara spesial Anda."
     - img: "img/our-service/content.png"
       title: "Konten"
       description:
-        "Carola menyediakan creative designer dan copy writer untuk memastikan merek Anda menonjol di ruang media digital yang ramai. Baik itu video, infografis, sinemagraf, captions, artikel, maupun siaran pers"
+        "Carola menyediakan desainer kreatif dan copywriter untuk memastikan merek Anda menonjol di ruang media digital yang ramai.  Baik itu video, infografis, sinematografi, keterangan, artikel, maupun siaran pers."
     - img: "img/our-service/media-relation.png"
       title: "Hubungan Media & Publisitas"
       description: "Carola memiliki pengalaman yang kuat dalam mengelola kampanye publisitas untuk organisasi, pemerintah, pariwisata, dan ritel termasuk negosiasi dan pengelolaan sponsor media yang berkelanjutan."
     - img: "img/our-service/csr.png"
-      title: "Tanggung jawab sosial perusahaan (CSR)"
-      description: "Carola dapat mengembangkan strategi dan kegiatan CSR untuk klien mulai dari mengembangkan inisiatif komunitas lokal hingga inisiatif sosial, pendidikan dan lingkungan, dan kegiatan amal."
+      title: "Tanggung Jawab Sosial Perusahaan"
+      description: "Carola dapat mengembangkan strategi dan kegiatan Corporate Social Responsibility (CSR) untuk klien mulai dari mengembangkan inisiatif komunitas lokal hingga inisiatif sosial, pendidikan dan lingkungan, serta kegiatan amal."
 
 # product
 product:
@@ -215,7 +214,7 @@ contact:
     message: "Ketik pesan anda disini"
   phone:
     title: "Telepon"
-    number: "0823-4141-0665"
+    number: "021-72742894"
   email:
     title: "Surel"
     email: '<a href="mailto:info@carola.id">info@carola.id</a>'
