@@ -55,7 +55,7 @@ showcase:
 # about
 about:
   enable: true
-  title: "Tentang <br/>Peruasahaan Kami"
+  title: "Tentang <br/>Perusahaan Kami"
   content: "CAROLA adalah perusahaan start-up yang bergerak di bidang komunikasi strategis, terutama dalam mengelola krisis reputasi."
   button:
     btnText: "Baca Selengkapnya"
